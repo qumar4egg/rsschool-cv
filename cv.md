@@ -1,5 +1,3 @@
-[rsschool-cv](https://qumar4egg.github.io/rsschool-cv/cv)
-
 # Stanislav Rodionov
 
 ## My contact info:
